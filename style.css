@@ -278,6 +278,15 @@ a{
     font-size: 15px;
     cursor: pointer;
 }
+.cbtn{
+    margin-top: 5px;
+    border-radius: 8px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
 .footer {
     margin-top: 100px;
     background-color: white;
